@@ -1,6 +1,6 @@
 # Hi, I'm Bhav
 
-- Data enthusiast and math educator  
+- Data enthusiast and math-stats educator  
 - Skilled in R, Python, and SQL  
 - Passionate about data-driven learning and clear analysis  
 - Strong interest in visualization and modeling (especially in R)  
