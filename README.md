@@ -6,4 +6,4 @@
 - Strong interest in visualization and modeling (especially in R)  
 - Open to data science, analytics, and applied research roles  
 
-[Website](bhavjotkhurana.github.io)·[LinkedIn](https://linkedin.com/in/bhavjotkhurana)·[Email](mailto:bhavjotskhurana@gmail.com)
+[Website](bhavjotkhurana.github.io)  ·  [LinkedIn](https://linkedin.com/in/bhavjotkhurana)  ·  [Email](mailto:bhavjotskhurana@gmail.com)
