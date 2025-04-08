@@ -9,6 +9,7 @@ I'm currently open to opportunities in data science, analytics, and applied rese
 ---
 
 To learn more about me or reach out:
+
 [Website](bhavjotkhurana.github.io)
 
 [LinkedIn](https://linkedin.com/in/bhavjotkhurana)  
