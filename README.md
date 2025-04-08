@@ -1,4 +1,4 @@
-# Hi, I'm Bhavjot
+# Hi, I'm Bhav
 
 - Data enthusiast and math educator  
 - Skilled in R, Python, and SQL  
